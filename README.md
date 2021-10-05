@@ -5,7 +5,7 @@
 #### Skills
 #### Platforms & Languages
 <p>
-#### Front-end
+<h3>Front-end </h3>
 ####-----------------------------
 HTML/CSS
 JavaScript(ES6+)
