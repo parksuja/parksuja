@@ -5,11 +5,11 @@
   개발 공부하는 박수진입니다.
 </p>
 
-### Skills
+#### Skills
 #### Platforms & Languages
 <p>
-### Front-end
-###-----------------------------
+#### Front-end
+####-----------------------------
 HTML/CSS
 JavaScript(ES6+)
 Sass/scss
@@ -19,20 +19,18 @@ Redux/MobX
 TypeScript
 
 
-### Communication
-###-----------------------------
+#### Communication
+####-----------------------------
 Trello
 
-### Design
-###-----------------------------
+#### Design
+####-----------------------------
 Protopie
 InVision
 </p>
 <p>
   
 </p>
-
-#### Tools
 <p>
  
 </p>
