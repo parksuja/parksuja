@@ -3,7 +3,7 @@
 </h2>
 
 <h2>Skills</h2>
-<br>
+<hr>
 <p>
 <h3>Front-end </h3>
 HTML/CSS
