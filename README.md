@@ -9,6 +9,7 @@
 #### Platforms & Languages
 <p>
 ### Front-end
+###-----------------------------
 HTML/CSS
 JavaScript(ES6+)
 Sass/scss
