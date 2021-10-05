@@ -13,7 +13,7 @@ TypeScript
 
 
 <h3>Communication</h3>
-Trello
+<br>Trello
 
 <h3>Design</h3>
 Protopie
