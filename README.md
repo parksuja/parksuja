@@ -2,8 +2,8 @@
   개발 공부하는 박수진입니다.
 </h2>
 
-#### Skills
-#### Platforms & Languages
+<h2>Skills</h2>
+<br>
 <p>
 <h3>Front-end </h3>
 HTML/CSS
