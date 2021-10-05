@@ -1,8 +1,6 @@
-<h2>
-  개발 공부하는 박수진입니다.
-<p>
-Skills</h2>
-<hr>
+<h2>개발 공부하는 박수진입니다.<h2>
+<h2>Skills</h2>
+
 
 <h3>Front-end </h3>
 HTML/CSS
