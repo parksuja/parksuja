@@ -3,6 +3,7 @@
 
 <h2>Skills</h2>
 <h3>Front-end </h3>
+<div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -10,7 +11,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-
+</div>
 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 <h3>Communication</h3>
