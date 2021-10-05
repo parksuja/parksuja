@@ -1,7 +1,7 @@
 <h2>
   개발 공부하는 박수진입니다.
-</h2>
-<h2>Skills</h2>
+<br>
+Skills</h2>
 <hr>
 
 <h3>Front-end </h3>
