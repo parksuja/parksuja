@@ -1,8 +1,7 @@
-<h2>개발 공부하는 박수진입니다.</h2>
-<h2>Skills</h2>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=cce5ee&height=150&section=header&text=PARKSUJIN&animation=fadeIn&fontColor=5E5E5E&fontSize=35&fontAlignY=30)
 
+
+<h2>Skills</h2>
 <h3>Front-end </h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 JavaScript(ES6+)
