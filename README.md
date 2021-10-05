@@ -1,13 +1,8 @@
 <p>
-<!--   <a href="http://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
-  <a href="njoy4088@naver.com" target="_blank"><img src="https://img.shields.io/badge/njoy4088@naver.com"/></a>
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  개발 공부하는 박수진입니다.
 </p>
 
 ### 💪 Skills
