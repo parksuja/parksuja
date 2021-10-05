@@ -6,7 +6,6 @@
 #### Platforms & Languages
 <p>
 <h3>Front-end </h3>
-####-----------------------------
 HTML/CSS
 JavaScript(ES6+)
 Sass/scss
@@ -16,12 +15,10 @@ Redux/MobX
 TypeScript
 
 
-#### Communication
-####-----------------------------
+<h3>Communication</h3>
 Trello
 
-#### Design
-####-----------------------------
+<h3>Design</h3>
 Protopie
 InVision
 </p>
