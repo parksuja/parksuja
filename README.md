@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/VSCode-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
 </div>
 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+<!--   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a> -->
 <h3>Communication</h3>
 <br>Trello
 
