@@ -1,9 +1,6 @@
-<p>
-</p>
-
-<p>
+<h2>
   개발 공부하는 박수진입니다.
-</p>
+</h2>
 
 #### Skills
 #### Platforms & Languages
