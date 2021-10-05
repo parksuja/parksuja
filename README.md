@@ -10,7 +10,7 @@ Styled-components
 React
 Redux/MobX
 TypeScript
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <h3>Communication</h3>
 Trello
